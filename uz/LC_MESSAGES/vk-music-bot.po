@@ -15,7 +15,7 @@ msgstr ""
 
 #: handlers/audio.py:118
 msgid "Please wait, your audio is coming..."
-msgstr ""
+msgstr "Sizning qo'shig'ingiz kelyapti, iltimos kutib turing..."
 
 #: handlers/audio.py:134
 msgid "Song is removed by copyright owners"
@@ -28,11 +28,11 @@ msgstr ""
 #: handlers/donation.py:43 handlers/donation.py:113 handlers/settings.py:52
 #: handlers/settings.py:72
 msgid "Close"
-msgstr ""
+msgstr "Yopish"
 
 #: handlers/donation.py:46
 msgid "Support us"
-msgstr ""
+msgstr "Bizni qo'llab quvvatlang"
 
 #: handlers/donation.py:48
 msgid ""
